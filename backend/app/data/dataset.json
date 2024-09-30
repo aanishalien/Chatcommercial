@@ -1,0 +1,20 @@
+[
+    {
+        "language": "Singlish",
+        "input": "Oyate , Kohomeda ?",
+        "intent": "greeting",
+        "response": "Maame Hodin Innewa , Sathutin innewa!"
+    },
+    {
+        "language": "Sinhala",
+        "input": "ඔබට කෙසේද?",
+        "intent": "greeting",
+        "response": "මට හොඳයි, ඔබට කෙසේද?"
+    },
+    {
+        "language": "Tamil",
+        "input": "நீங்கள் எப்படி இருக்கிறீர்கள்?",
+        "intent": "greeting",
+        "response": "நான் நல்லா இருக்கிறேன்!"
+    }
+]
